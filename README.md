@@ -5,7 +5,7 @@
 
 프로젝트 : Koopa (Learning Non-stationary Time Series Dynamics with Koopman Predictors)
 
-서론(Introduction)
+**서론(Introduction)**
 
 Koopa는 효율적인 시계열 예측을 위한 경량 MLP 기반의 이론 기반 모델입니다.
 
@@ -16,7 +16,7 @@ Koopa는 고도로 훈련된 심층 예측기와 비교하여 77.3%의 훈련 �
 Koopa는 종단 간 예측 훈련을 달성하기 위해 재구성 손실 함수가 없는 표준 Koopman Autoencoder와 다릅니다.
 
 
-롤링 예측에 적용 가능(Applicable for Rolling Forecast)
+**롤링 예측에 적용 가능(Applicable for Rolling Forecast)**
 
 제안된 모델은 롤링 예측 중에 들어오는 시계열에 연산자를 적용함으로써 연속적인 분포 이동에 적응함으로써 보다 정확한 성능을 달성할 수 있습니다.
 
