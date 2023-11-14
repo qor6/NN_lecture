@@ -12,4 +12,4 @@ https://github.com/zhouhaoyi/ETDataset
 | MULL | 중간부하 무용 |
 | LUFL | 저부하 유용 |
 | LULL | 저부하 무용 |
-| OT | 유류 온도 (대상) |
+| OT | 유류 온도 (target) |
