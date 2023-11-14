@@ -1,2 +1,0 @@
-## About ETT dataset
-
