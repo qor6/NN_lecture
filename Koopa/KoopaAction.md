@@ -46,4 +46,16 @@ python3 run.py --model_id my_model --model Koopa --data ETTh2 --root_path ./data
 --seq_len 96 (입력 시퀀스 길이)
 --is_training 1 (모델이 훈련 모드(1)인지 아닌지(0)을 나타내는 정수 플래그)
 ```
-![trainng start](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/320dd921-4176-43ec-abc2-fb9a81f6a2eb)
+
+실행결과는 다음과 같습니다.
+
+![image](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/5f38eacb-8673-4834-b58c-25fa4b636f2b)
+
+
+![image](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/18eb0ff0-992c-4c1b-8741-d11b48e5e11c)
+
+
+![image](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/7f592901-d388-4300-8fc7-671296f8d09d)
+
+
+![image](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/0a601623-3487-4874-84df-1da8ce5b17f6)
