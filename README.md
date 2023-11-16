@@ -1,7 +1,7 @@
 # NN_lecture
 뉴럴네트워크 수업 관련 프로젝트 및 실습
 
-## 실습 : MLP, CNN, LSTM, AutoEncoder etc.
+## 실습 : MLP, CNN, RNN(LSTM), AutoEncoder etc.
 
 ## 프로젝트 : Koopa (Learning Non-stationary Time Series Dynamics with Koopman Predictors)
 
