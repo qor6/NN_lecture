@@ -1,9 +1,10 @@
 # 기본 실행 성능 평가를 위한 Koopa 실행
 
 1. cpu 기반 실험
+학교 실습실 컴퓨터를 사용해서 Koopa를 돌려본 상황
 
 2. gpu 기반 실험
-   
+개인 컴퓨터에 있는 GPU를 사용해서 Koopa를 돌려본 상황   
 ![action_GPU](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/44991d72-5ca3-4e93-8f88-3f39341c09b8)
 
 ![epoch3](https://github.com/qor6/NeuralNetwork_donga/assets/87318054/a609474a-b6a3-4ea4-9727-e4cd1926c050)
