@@ -4,10 +4,10 @@
 ## 실습 : MLP, CNN, RNN(LSTM), AutoEncoder etc.
 
 ## 프로젝트 : Koopa (Learning Non-stationary Time Series Dynamics with Koopman Predictors)
-기획서
-중간 발표
-최종 발표
-최종 결과 보고서
+- 기획서
+- 중간 발표
+- 최종 발표
+- 최종 결과 보고서
 
 **서론(Introduction)**
 
