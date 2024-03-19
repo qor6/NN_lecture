@@ -1,4 +1,4 @@
-# NN_lecture
+# NN_lecture(3학년 2학기)
 뉴럴네트워크 수업 관련 프로젝트 및 실습
 
 ## 실습 : MLP, CNN, RNN(LSTM), AutoEncoder etc.
