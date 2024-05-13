@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 (x_train,y_train),(x_test,y_test) = ds.mnist.load_data()
 print(x_train.shape,y_train.shpae,x_test.shape,y_test.shape)
+
 plt.figure(figsize=(24,3))
 plt.subtitle("MNIST", fontsize=30)
 for i in range(10):
@@ -14,6 +15,7 @@ for i in range(10):
 
 (x_train,y_train),(x_test,y_test) = ds.cifar10.load_data()
 print(x_train.shape,y_train.shpae,x_test.shape,y_test.shape)
+
 class_name=['airplane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
 plt.figure(figsize=(24,3))
 plt.subtitle("CIFAR-10", fontsize=30)
