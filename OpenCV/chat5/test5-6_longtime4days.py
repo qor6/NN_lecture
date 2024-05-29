@@ -29,6 +29,7 @@ cnn.add(Dense(units=120,activation='softmax'))
 # learning rate는 미세조정 방식의 전이학습, 학습률을 아주 작게 설정하여 특징 추출을 담당하는 층의 가중치를 유지
 # epochs 미세 조정을 위해 epoch의 수를 늘려 오래 학습
 cnn.compile(loss="sparse_categorical_crossentropy", optimizer=Adam(learning_rate=0.000001), metrics=['accuracy'])
+#######오래 걸림
 hist=cnn.fit(train_ds,epochs=200, validation_data=test_ds,verbose=2)
 
 print("정확률 = ", cnn.evaluate(test_ds,verbose=0)[1]*100)
