@@ -1,3 +1,5 @@
+# 정확률 =  9.4266280
+
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Flatten,Dropout,Dense,Rescaling
 from tensorflow.keras.optimizers import Adam
