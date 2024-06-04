@@ -62,3 +62,4 @@ cv.imshow('Object detection by YOLO v.3',img)
 
 cv.waitKey()
 cv.destroyAllWindows()
+
