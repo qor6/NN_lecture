@@ -27,7 +27,7 @@ Koopa는 효율적인 시계열 예측을 위한 경량 MLP이론 기반 모델�
 시각화 tool 예상 : Grafana
 
 # ComputerVision(4학년1학기)
-컴퓨터 비전 수업 관련 프로젝트 및 실습
+컴퓨터 비전 수업 관련 실습
 
 ## 실습 : 이미지 출력(박스&페인트), 에지 검출
 https://github.com/qor6/NeuralNetwork-ComputerVision_donga/tree/main/OpenCV
